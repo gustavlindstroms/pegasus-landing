@@ -1,0 +1,9 @@
+# Local tooling — not part of the site
+.agents/
+.claude/
+skills-lock.json
+
+# Cruft
+.DS_Store
+_preview.html
+*.log
